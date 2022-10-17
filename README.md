@@ -2,7 +2,7 @@
 - 👀 I’m interested in software/game developing
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me :
-` Instagram : veeeeeewz (6 e)
+` Instagram : veee.eeewz (6 e)
 
 <!---
 Slozzzzy/Slozzzzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
