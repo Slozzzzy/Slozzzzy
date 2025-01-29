@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Slozzzzy
-- 👀 I’m interested in software/game developing
-- 🌱 I’m currently learning JavaScript
-- 📫 How to reach me :
-` Instagram : veee.eeewz (6 e)
+- 👋 Hello there, It's Slozzzy
+- 👀 I’m interested in cybersecurity, linux and more of those nerdy techs!
+- 🌱 Currently looking for cool security projects to do.
 
 <!---
 Slozzzzy/Slozzzzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
