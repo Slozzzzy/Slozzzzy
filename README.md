@@ -2,9 +2,6 @@
 📚 Computer engineering student at KMUTT, Thailand <br>🔒 Currently exploring the exciting world of cybersecurity <br>🐧 Huge Linux enthusiast, gonna hop on **"Arch BTW"** soon <br>
 ### My setups ✨ :<br>- 🎮  Lenovo Legion 5 82B10043TA on Windows 10 | For Gaming <br>- 💻  Lenovo Thinkpad T470p on Debian Bookworm | For Working 
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ayejayway) 
-
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=flat&logo=ruby&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33.svg?style=flat&logo=Debian&logoColor=white) ![Fish](https://img.shields.io/badge/fish%20shell-34C534.svg?style=flat&logo=fish-shell&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=Linux&logoColor=black) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7.svg?style=flat&logo=Wireshark&logoColor=white)
 # 📊 GitHub Stats:
