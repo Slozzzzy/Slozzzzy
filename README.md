@@ -1,5 +1,5 @@
 # 💫 About Slozzzzy :
-📚 Computer engineering student at KMUTT, Thailand <br>🔒 Currently exploring the exciting world of cybersecurity <br>🐧 Huge Linux enthusiast, hopping on **"Arch BTW"** soon <br>
+📚 Computer engineering student at KMUTT, Thailand <br>🔒 Currently exploring the exciting world of cybersecurity <br>🐧 Huge Linux enthusiast **"Arch BTW"** user <br>
 ### My setups ✨ :<br>- 🎮  Lenovo Legion 5 on Windows 10 (Currently Dead) | For Gaming <br>- 💻  Lenovo Thinkpad T470p on Debian Bookworm | For Working 
 
 # 💻 Tech Stack:
